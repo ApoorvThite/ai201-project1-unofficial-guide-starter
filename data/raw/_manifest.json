@@ -1,0 +1,44 @@
+{
+  "total_sources": 9,
+  "succeeded": 0,
+  "failed": 9,
+  "failures": [
+    {
+      "source_id": 1,
+      "error": "HTTP 403"
+    },
+    {
+      "source_id": 2,
+      "error": "HTTP 403"
+    },
+    {
+      "source_id": 3,
+      "error": "HTTP 403"
+    },
+    {
+      "source_id": 4,
+      "error": "HTTP 403"
+    },
+    {
+      "source_id": 5,
+      "error": "HTTP 403"
+    },
+    {
+      "source_id": 6,
+      "error": "HTTP 403"
+    },
+    {
+      "source_id": 7,
+      "error": "HTTP 403"
+    },
+    {
+      "source_id": 8,
+      "error": "HTTP 403"
+    },
+    {
+      "source_id": 9,
+      "error": "HTTP 403"
+    }
+  ],
+  "documents": []
+}

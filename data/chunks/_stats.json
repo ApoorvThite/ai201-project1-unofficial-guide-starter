@@ -1,0 +1,79 @@
+{
+  "tokenizer": "tiktoken/cl100k_base",
+  "chunk_size": 400,
+  "chunk_overlap": 80,
+  "model_limit": 512,
+  "total_chunks": 55,
+  "per_document": [
+    {
+      "filename": "borough council college students.json",
+      "source_title": "Borough Council \u2014 college students belong here",
+      "n_chunks": 11,
+      "avg_tokens": 391.0,
+      "over_limit": 0
+    },
+    {
+      "filename": "fall only housing.json",
+      "source_title": "Fall Only Housing",
+      "n_chunks": 1,
+      "avg_tokens": 268.0,
+      "over_limit": 0
+    },
+    {
+      "filename": "how tf do people walk in bitterly cold weather.json",
+      "source_title": "How tf do people walk in bitterly cold weather?",
+      "n_chunks": 7,
+      "avg_tokens": 360.3,
+      "over_limit": 0
+    },
+    {
+      "filename": "i work in parking for psu.json",
+      "source_title": "I work in parking for PSU \u2014 please read this",
+      "n_chunks": 7,
+      "avg_tokens": 380.9,
+      "over_limit": 0
+    },
+    {
+      "filename": "locked apartment buildings.json",
+      "source_title": "Locked apartment buildings and delivery drivers",
+      "n_chunks": 2,
+      "avg_tokens": 392.5,
+      "over_limit": 0
+    },
+    {
+      "filename": "moving up from midwest.json",
+      "source_title": "Moving up from the midwest \u2014 landlords are leeches",
+      "n_chunks": 5,
+      "avg_tokens": 344.2,
+      "over_limit": 0
+    },
+    {
+      "filename": "psa avoid tremont the bryn the pointe.json",
+      "source_title": "PSA: Avoid Tremont, The Bryn & The Pointe",
+      "n_chunks": 12,
+      "avg_tokens": 380.4,
+      "over_limit": 0
+    },
+    {
+      "filename": "reminder to rate landlords.json",
+      "source_title": "Reminder to Rate your Landlords and Professors",
+      "n_chunks": 1,
+      "avg_tokens": 397.0,
+      "over_limit": 0
+    },
+    {
+      "filename": "the landlord issue in state college should be stud.json",
+      "source_title": "The landlord issue in State College should be studied",
+      "n_chunks": 7,
+      "avg_tokens": 398.7,
+      "over_limit": 0
+    },
+    {
+      "filename": "what s up with traffic cata this sem.json",
+      "source_title": "What's up with traffic/CATA this sem?",
+      "n_chunks": 2,
+      "avg_tokens": 311.0,
+      "over_limit": 0
+    }
+  ]
+}
