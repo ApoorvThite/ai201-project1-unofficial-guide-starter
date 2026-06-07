@@ -10,7 +10,7 @@
 ## Domain
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
-
+I chose the domain of "Lease or Lose: Off-Campus Housing Guide". This knowledge is valuable because it provides students with information about off-campus housing options, lease terms, and other important details that they need to know before signing a lease. It is hard to find through official channels because it is not always readily available on official websites or through official channels. I used Reddit threads as my source of information, because students post regularly their reviews and experiences with different housing options. I am from State College, so I chose to focus on off-campus housing options in State College.
 ---
 
 ## Documents
