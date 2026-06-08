@@ -41,7 +41,7 @@ I chose the domain of "Lease or Lose: Off-Campus Housing Guide". This knowledge 
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
 **Chunk size:**
-The average Reddit post is around 500-1000 words, so I'll use a chunk size of 1000 tokens with 200 token overlap to ensure context is maintained.
+The average Reddit post is around 500-1000 words, so I'll use a fixed chunk size of 1000 tokens with 200 token overlap to ensure context is maintained.
 
 **Overlap:**
 200 tokens
